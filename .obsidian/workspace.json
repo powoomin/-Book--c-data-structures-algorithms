@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "3e13137052727ebd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e46c47fbfbb149f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f4366c603ed9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d88f1fffa01c6e21",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ceb0d1fae6de6f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e1facfebcbeeba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "312fb8ee90fafa15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "333fff3d1d88cf08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205.5
+  },
+  "right": {
+    "id": "bb3e3fdcb4329ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef9b8604169df6d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abc8903e16ff429b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f9acf27b9a3c82c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a22d9dd3398cdec4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1b2ab8f68889cd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "91f4366c603ed9c3",
+  "lastOpenFiles": [
+    "0.Main - 데이터구조&알고리즘.md",
+    "01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md",
+    "01 A C++ Primer",
+    "().md",
+    "c_c-data-structures-and-algorithms-in-c.pdf"
+  ]
+}
