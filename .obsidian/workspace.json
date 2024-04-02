@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md"
+                "file": "README.md"
               }
             }
           }
@@ -149,11 +149,14 @@
   },
   "active": "91f4366c603ed9c3",
   "lastOpenFiles": [
-    "0.Main - 데이터구조&알고리즘.md",
+    "데이터구조&알고리즘/0.Main - 데이터구조&알고리즘.md",
     "README.md",
+    "Java/0. Main - Java.md",
+    "Java",
+    "데이터구조&알고리즘",
+    "데이터구조&알고리즘/01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md",
     "데이터구조&알고리즘.md",
-    "01 A C++ Primer/01 Chapter - A C++ Primer(입문서).md",
-    "01 A C++ Primer",
+    "데이터구조&알고리즘/01 A C++ Primer",
     "().md",
     "c_c-data-structures-and-algorithms-in-c.pdf"
   ]
